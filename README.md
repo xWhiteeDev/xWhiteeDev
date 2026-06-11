@@ -17,6 +17,5 @@ Now I'm fully focused on TypeScript — my language of choice. I'm self-taught, 
 ## Language roadmap
  - </> **TypeScript** - In progress
  - 🌐 **React**  📅 Planned
- - 🐍 **Python** 📅 Planned
  - 💻 **C#** 📅 Planned
-## Just trying to be the best version of myself
+ - C++ **C++** 📅 Planned
