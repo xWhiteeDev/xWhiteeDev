@@ -18,4 +18,4 @@ Now I'm fully focused on TypeScript — my language of choice. I'm self-taught, 
  - </> **TypeScript** - In progress
  - 🌐 **React**  📅 Planned
  - 💻 **C#** 📅 Planned
- - C++ **C++** 📅 Planned
+ - **C++** 📅 Planned
