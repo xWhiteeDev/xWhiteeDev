@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Jacob, a 20-year-old CNC Operator with a passion for programming and a goal to break into IT.
+I'm Jacob, a 20-year-old self taught.
 
 My journey started at 17 when I discovered Lua while playing MTA:SA. Lua wasn't for me, but it sparked my curiosity. When I moved to GTA:V multiplayer platforms, I wanted to build my own mods and gamemodes — that's when I found JavaScript.
 
